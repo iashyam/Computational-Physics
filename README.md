@@ -10,7 +10,7 @@
     
     
 2. Solving Linear Equations:
-    1. Gaussian Elimination 
+    1. [Gaussian Elimination](www.google.com)
     1. LU Decomposition
     1. Inverse Matrix
     1. Iterative Methods
@@ -41,7 +41,7 @@
 
 6. Solving Deiffrential Equations
     1. Eular's Algorithem
-    2. Runge-Kutta $2^{nd}$ and $4^{th}$ order approximation.
+    2. Runge-Kutta 2nd and 4th order approximation.
     1. Verlet Algorithm
     3. Finite Difference Method
         1. Partial DE
