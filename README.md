@@ -5,7 +5,7 @@
 #### Carriculam
 
 1. Baiscs Of Python
-    [] Data Types and variables
+    1. Data Types and variables
     2. Basics of numpy and plotting
     
     
